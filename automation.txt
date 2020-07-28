@@ -1,5 +1,10 @@
 This File is configuration
-of automation
+of automation of code
 that we using
-in our project.
+in our project
+which will be user for
+the automation
+and
+configuration
+management.
 ##### consider it as code file #####
