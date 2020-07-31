@@ -8,4 +8,7 @@ and
 configuration
 management.
 This file is being modified to vie in GitHub.
+New Lines added in feature1 branch - 
+Test line1...
+Test line2...
 ##### consider it as code file #####
