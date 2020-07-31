@@ -8,6 +8,9 @@ and
 configuration
 management.
 This file is being modified to vie in GitHub.
+New Lines added in feature1 branch - 
+Test line1...
+Test line2...
 Added new line in stage branch.
 ##### consider it as code file #####
 
